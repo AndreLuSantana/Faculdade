@@ -1,0 +1,46 @@
+
+    h2{
+        position: relative;
+        left:340px;
+    }
+    #tot{
+        font-weight: bold;
+        font-size: 35pt;
+
+    }
+    #valorPagar{
+
+        font-weight: bold;
+        font-size: 30pt;
+        color: #9ACD32;
+        margin-left:100px;
+        text-decoration:underline;
+    }
+    table{
+        border: 1px solid #606060;
+        border-spacing: 0px;
+        background-color: rgba(107, 142, 35,.7);
+        box-shadow: 1px 1px 1px 1px #202020;
+        position:absolute;
+        left:350px;
+
+    }
+    th{
+        border: 1px solid #93af93;
+        background-color:rgba(107, 142, 35,.7);
+        padding: 10px;
+        color:#c0c0c0;
+    }
+    .tbResumo{
+
+        padding: 10px;
+        text-align: center;
+    }
+    .btn{
+        text-decoration:none;
+        position: absolute;
+        left:550px;
+        color: #fff;
+        font-size: xx-large;
+
+    }
